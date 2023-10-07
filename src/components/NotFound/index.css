@@ -1,0 +1,10 @@
+.center-image {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  height: 150px;
+  margin-top: 100px;
+}
